@@ -1,0 +1,17 @@
+a = 5
+b = 6
+c = 2
+d = 1
+e = 0 
+e = a * b // c + 1
+
+print(e)
+
+
+name = 'Krishna'
+age = 11
+
+if name == 'Krishna' or name == 'Pavi' and age >= 12:
+    print('Hello')
+else:
+    print('Bye')
